@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PHCarouselView_Example' do
+  pod 'PHCarouselView', :path => '../'
+
+  target 'PHCarouselView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
