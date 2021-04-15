@@ -1,0 +1,6 @@
+framework module PHCarouselView {
+  umbrella header "PHCarouselView-umbrella.h"
+
+  export *
+  module * { export * }
+}

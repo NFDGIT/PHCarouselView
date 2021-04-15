@@ -1,0 +1,23 @@
+PODS:
+  - PHCarouselView (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PHCarouselView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PHCarouselView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHCarouselView: c6dbf366b7f2feed0b8008a53efcd1f865502dae
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 6a950548b29436eceb3c00b0734963232529f548
+
+COCOAPODS: 1.9.3
